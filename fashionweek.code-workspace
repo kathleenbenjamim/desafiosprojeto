@@ -1,8 +1,45 @@
-{
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
-}
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <titler></titler>
+</head>
+
+<body>
+    <h1>A história por trás de um fashion week?</h1>
+    <hr/>
+    <ul>
+        <li><strong>INDICE</strong></li>
+    </ul>
+    <ol>
+        <li><a href="#oque">O que exatamente é uma fashion week?</a></li>
+        <li><a href="#quemvai">Quem vai?</a></li>
+        <li><a href="#objetivo">Qual é o objetivo?</a></li>
+        <li><a href="#origem">A origem?</a></li>
+
+    </ol>
+    
+    <h2 id="oque">O que exatamente é uma fashion week?</h2>
+    <p>Durante mais ou menos uma semana por estação, as marcas e estilistas mais importantes de cada lugar mostram suas novas coleções de Outono/Inverno e Primavera/Verão em formato de desfile, vídeo ou apresentação. Por trás da badalação, o evento é importante para a indústria local, para a fomentação de novos negócios e para o setor econômico de cada país.   
+    </p>
+    <blockquote><i>fashion week!</i></blockquote> 
+
+    <h2 id="quemvai">Quem vai?</h2>
+    <p>O glamour da primeira fila é elevado através da presença de celebridades, influencers e dos principais editores. O público é na maior parte composto por profissionais da indústria. Para os buyers — ou seja, compradores e colecionadores —, é oportunidade de conferir as coleções de perto e fazer suas escolhas. Para editores e imprensa, é a chance de analisar as tendências emergentes e descobrir novos talentos, já para clientes fiéis, é uma forma de prestígio e recompensa pela fidelidade à marca, além do valioso networking que é relevante para todos os envolvidos.       
+    </p>
+
+    <h2 id="objetivo">Qual é o objetivo?</h2>
+    <p>A maioria dos desfiles duram de 7 a 15 minutos, mas tem o poder de transportar a plateia para outro planeta. Desfiles contam a história da coleção e são a forma ideal de apresentar a narrativa do designer. Começando pelo convite, passando pelo perfil dos convidados, local escolhido, casting, trilha sonora e iluminação, todos elementos são cuidadosamente pensados para transmitir a mensagem daquela temporada em uma experiência multissensorial. Com o crescimento das mídias sociais, os desfiles também foram se tornando cada vez mais instrumentais em gerar atenção e burburinho para a marca, culminando em mídia espontânea e momentos virais que resultam também em sucesso comercial.</p>
+    
+    <h2 id="origem">A origem</h2>
+    <p>
+    Charles Frederick Worth é considerado o pai da alta-costura e foi ele, ainda no século XIX, quem teve a ideia de mostrar as criações da sua 'House of Worth' em modelos, ao invés de manequins. No início do século passado, nomes como Paul Poiret continuaram o hábito em eventos glamourosos e temáticos que se confundiam com festas.
+
+    Os anos 20 marcam o início da era de ouro da couture dominado por três mulheres fantásticas, Coco Chanel, Elsa Schiaparelli e Madame Vionnet. Elas repensaram o formato, com ocasiões mais exclusivas, apenas para convidados em proposta intimista, fotógrafos eram banidos pelo medo de cópia. Pequenas e feitas apenas para as clientes de cada maison, formato bem diferente do coletivo que acabaria se tornando Fashion Week.
+    </p>
+    
+</body>
+
+</html>
